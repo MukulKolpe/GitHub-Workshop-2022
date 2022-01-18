@@ -4,7 +4,7 @@
 
 - Fork
 - clone
-- craete branch
+- create branch
 - make changes
 - add
 - commit
